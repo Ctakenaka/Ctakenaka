@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 👋
 
-<!--
-**Ctakenaka/Ctakenaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Celso Takenaka
 
-Here are some ideas to get you started:
+- Estou me desenvolvendo junto as minhas turmas de tecnologia na linguagem JavaScript
+- Todos na plataforma [ALURA](https://cursos.alura.com.br/certificate/3aa2ddd0-83c3-4ab0-bd21-bca02b6e7869)
+- Espaço para organização dos meu projetos concluidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo 📫
+
+celso.takenaka@gmail.com
+
+@celsotakenaka
+
+![](https://www.baselinetechlab.com/wp-content/uploads/2023/06/it-gif.gif)
